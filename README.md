@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://vercel.com/eliseu-rodrigues-projects/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/0DAWgNSoBXwtvotnJxR35s)
+  [![Spotify](https://vercel.com/eliseu-rodrigues-projects/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
 &nbsp;<div align="center">
